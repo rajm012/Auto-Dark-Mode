@@ -40,6 +40,7 @@ A Chrome extension that applies a **smooth dark mode** to any website for a bett
 
 ## 🖥️ **Project Structure**
 
+```
 📂 auto-dark-mode-extension
 │── 📄 manifest.json          # Chrome extension configuration
 │── 📄 popup.html             # Popup UI
@@ -47,7 +48,7 @@ A Chrome extension that applies a **smooth dark mode** to any website for a bett
 │── 📄 content.js             # Applies dark mode styling to websites
 │── 📄 icon.png               # Extension icon
 │── 📄 README.md              # Documentation
-
+```
 
 ---
 
