@@ -47,7 +47,7 @@ A Chrome extension that applies a **smooth dark mode** to any website for a bett
 │── 📄 content.js             # Applies dark mode styling to websites
 │── 📄 icon.png               # Extension icon
 │── 📄 README.md              # Documentation
-```
+
 
 ---
 
@@ -83,7 +83,6 @@ MIT License – Free to use & modify.
 ---
 
 🚀 **Enjoy Dark Mode Everywhere!** 🌙✨
-```
 
 ---
 
