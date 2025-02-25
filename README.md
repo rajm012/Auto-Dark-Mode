@@ -3,7 +3,7 @@
 
 ### 📜 **README.md** – Auto Dark Mode for Any Website  
 
-```md
+
 # 🌙 Auto Dark Mode for Any Website
 
 A Chrome extension that applies a **smooth dark mode** to any website for a better browsing experience. This extension intelligently inverts colors, improves contrast, and ensures readability for all elements.
@@ -39,7 +39,7 @@ A Chrome extension that applies a **smooth dark mode** to any website for a bett
 ---
 
 ## 🖥️ **Project Structure**
-```
+
 📂 auto-dark-mode-extension
 │── 📄 manifest.json          # Chrome extension configuration
 │── 📄 popup.html             # Popup UI
